@@ -12,5 +12,5 @@ function repeatedNum(numbers, rep) {
 }
 
 const numbers = [5, 6, 11, 12, 98, 5, 56, 11, 5];
-repeatedNum(numbers, 5);
+repeatedNum(numbers, 555);
 // console.log();
